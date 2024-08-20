@@ -311,3 +311,30 @@ h4 a {
   cursor: pointer;
   color: white;
 }
+.container-6 {
+  width: 100%;
+  height: auto;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.797);
+}
+.container-6-inner {
+  width: 70%;
+  margin: auto;
+  height: auto;
+  border: 2px solid green;
+  display: flex;
+}
+.container-6-div-1 {
+  line-height: 1.6;
+}
+.container-6-div-2 {
+  line-height: 1.2;
+  margin-top: 12px;
+}
+.container-6-div-3 {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.3;
+  margin-top: 12px;
+  gap: 12px;
+}
